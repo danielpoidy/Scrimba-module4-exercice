@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: Lato;
+}
+header {
+    background: #2E354F;
+    padding: 50px 0;
+}
+
+h1 {
+    color: #FFF;
+    font-size: 36px;
+    /*border: 1px solid white;*/
+    width: 620px;
+    margin: auto;
+}
+
+h2, a {
+    color: #EF5839;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.section-content {
+    width: 620px;
+    margin: 25px auto;
+    /*border: 1px solid red;*/
+}
+
+.section-two {
+    background: #2E354F;
+    padding: 25px 0;
+    color: #FFF;
+}
+
+.section-two h2 {
+    margin-top: 0;
+}
+
+/*Buttons general settings */
+.section-two .btn {
+    background: #EF5839;
+    padding: 10px 32px;
+    text-decoration: none;
+}
+
+.section-two .btn-orange {
+    color: #FFF;
+}
+
+.section-two .btn-white {
+    background: #FFF;
+    color: #000;
+}
+
+.section-two .btn-orange:hover, .btn-white:hover {
+    background: #000;
+    color: #EF5839;
+}
+
+.section-two .btn-orange:focus, .btn-white:focus {
+    background: #000;
+    color: #EF5839;
+}
+
+.section-two a:hover {
+    background: #000;
+    color: #FFF;
+}
+
+.section-two a:focus {
+    background: #000;
+    color: #FFF;
+}
+
+.section-one a:hover {
+    background: #000;
+    color: #EF5839;
+}
+
+.section-one a:focus {
+    background: #000;
+    color: #EF5839;
+}
+
